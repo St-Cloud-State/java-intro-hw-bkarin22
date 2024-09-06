@@ -1,0 +1,18 @@
+Script started on 2024-09-06 02:35:34+00:00 [TERM="xterm-256color" TTY="/dev/pts/0" COLUMNS="156" LINES="16"]
+[0;32m@bkarin22 [0m➜ [1;34m/workspaces/java-intro-hw-bkarin22 [0;36m([1;31mmain[0;36m) [0m$ exitclearjava MyMainc Person.java MyMain.javaclear[Kjavac Person.java MyMain.java MyMain[K[6Pclear[1Pexit[Kjava [Kc HW1Q3/MyMain.java Hw[KW1Q3/per[K[K[KPerson.java HW1Q3/Pr[KersonList.java 
+[0;32m@bkarin22 [0m➜ [1;34m/workspaces/java-intro-hw-bkarin22 [0;36m([1;31mmain[0;36m) [0m$ java HW1Q3.MyMain 
+Reading from data file: HW1Q3/data.txt
+
+Displaying objects from persons list: 
+First Name: Brendan, Last Name: Kariniemi, ID: 1
+First Name: Jane, Last Name: Wright, ID: 2
+First Name: Bob, Last Name: Johnson, ID: 3
+
+Searching persons list based on ID: 
+Find result for ID 1: 0
+Find result for ID 10: -1
+
+[0;32m@bkarin22 [0m➜ [1;34m/workspaces/java-intro-hw-bkarin22 [0;36m([1;31mmain[0;36m) [0m$ exit
+exit
+
+Script done on 2024-09-06 02:36:17+00:00 [COMMAND_EXIT_CODE="0"]
